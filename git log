@@ -1,0 +1,17 @@
+[33mcommit 081d4cb834f6cc07c981abbc9fc577b2293dfe85[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlab/week2[m[33m)[m
+Author: 660710242Kantitad <sisawat_k@su.ac.th>
+Date:   Thu Jul 17 08:19:30 2025 +0000
+
+    add Hello World Docker setup
+
+[33mcommit 3c1c80ae90283aec4013d8ccfaa6771a6ddd506e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: 660710242Kantitad <sisawat_k@su.ac.th>
+Date:   Thu Jul 17 07:25:43 2025 +0000
+
+    run notebook ok
+
+[33mcommit b451de622b9362b6c7c41d73bb576c07ebeeb0b5[m
+Author: 660710242Kantitad <sisawat_k@su.ac.th>
+Date:   Thu Jul 17 14:09:01 2025 +0700
+
+    Initial commit
